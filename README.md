@@ -10,8 +10,9 @@
 - written in Flask, with proxy routed from React FE
 - I have written some Flask app with Jinja template but not with a proper FE
 - this time i am using dotenv, using `flask run` to run the server, rather `python app.py`
+> Just `flask run` to start the server
 - no DB set up this time, planned to set up pgsql to store some data, somehow all the data can be retrieve from the API
-- shoutout to: https://ergast.com
+- shoutout to: <https://ergast.com>
 
 ### The Model
 - some of the data used to do the training and testing
@@ -36,11 +37,14 @@
 - The Algorithm for driver score is *self-written*, LFG. Not a bad _shit_ ngl
 
 ## Front-End
+> to run, `yarn start`
+- I am learning to start using this yarn thing
 - written in React.js and css
 - somesort of suck, still learning syntax
 - kind of learning `this`, `state`, `const`
 - Nothing much to talk about, still WIP.
+- Just finding a place to host my API.
 
 # Contact
 - Will deploy when the model is fixed. Also adding more feature.
-- For anymore suggestions, please contact me at kqdev0199@gmail.com
+- For anymore suggestions, please contact me at <kqdev0199@gmail.com>
