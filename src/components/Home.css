@@ -1,0 +1,96 @@
+/* src/components/Home.css */
+
+@font-face {
+  font-family: 'F1 Font'; /* Replace with the actual font name */
+  src: url('../fonts/Formula1-Bold-4.ttf') format('ttf');
+  font-weight: normal; /* Adjust if needed */
+  font-style: normal; /* Adjust if needed */
+}
+
+/* Black */
+@font-face {
+  font-family: 'F1 Font';
+  src: url('../fonts/Formula1-Black.ttf') format('ttf');
+  font-weight: 900; /* Black weight */
+  font-style: normal;
+}
+
+.home {
+  font-family: 'F1 Font', Arial, sans-serif;
+  color: #E0E0E0; /* Light text for dark theme */
+  background: #1a1a1a; /* Dark background */
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-bottom: 20px;
+}
+
+.f1-logo {
+  width: 200px; /* Increased size for better visibility */
+  margin-bottom: 10px;
+}
+
+h1 {
+  color: #61dafb; /* React blue for headings */
+  font-size: 2.5em;
+}
+
+.calendar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+.race-card {
+  background: #252424; /* Dark card background */
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+  width: 250px;
+  text-align: center;
+}
+
+.race-card:hover {
+  transform: scale(1.05);
+}
+
+.race-card h2 {
+  color: #61dafb; /* React blue for race titles */
+  margin-bottom: 8px;
+}
+
+.race-card p {
+  margin: 5px 0;
+  color: #cccccc; /* Light gray for race card text */
+}
+
+.sprint-card {
+  background: #FFD700; /* Gold background for Sprint */
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+  width: 250px;
+  text-align: center;
+}
+
+.sprint-card:hover {
+  transform: scale(1.05);
+}
+
+.sprint-card h2 {
+  color: #000000; /* Black text for Sprint title */
+  margin-bottom: 8px;
+}
+
+.sprint-card p {
+  margin: 5px 0;
+  color: #333333; /* Darker text for better readability */
+}

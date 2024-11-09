@@ -1,0 +1,96 @@
+/* src/App.css */
+
+@font-face {
+  font-family: 'F1-bold'; /* Replace with the actual font name */
+  src: url('./fonts/Formula1-Bold-4.ttf') format('truetype');
+  font-weight: normal; /* Adjust if needed */
+  font-style: normal; /* Adjust if needed */
+}
+
+/* Black */
+@font-face {
+  font-family: 'F1-black';
+  src: url('./fonts/Formula1-Black.ttf') format('truetype');
+  font-weight: 900; /* Black weight */
+  font-style: normal;
+}
+
+/* Normal */
+@font-face {
+  font-family: 'F1-regular';
+  src: url('./fonts/Formula1-Regular-1.ttf') format('truetype');
+  font-weight: normal; /* Black weight */
+  font-style: normal;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333; /* Dark background */
+  padding: 10px 20px;
+}
+
+.navbar-brand a {
+  color: #61dafb; /* Use your preferred color for the brand */
+  font-size: x-large;
+  text-decoration: none;
+  font-family: 'F1-black', Arial, sans-serif;
+}
+
+.navbar-links {
+  list-style: none;
+  display: flex;
+  gap: 15px; /* Spacing between links */
+  font-family: 'F1-regular';
+}
+
+.navbar-links li {
+  display: inline;
+  border-radius: 10px;
+}
+
+.navbar-links a {
+  color: white; /* Link color */
+  text-decoration: none;
+  padding: 8px 12px;
+  transition: background 0.3s ease; /* Smooth background transition */
+}
+
+.navbar-links a:hover {
+  background-color: #61dafb; /* Highlight color on hover */
+  border-radius: 5px; /* Rounded corners */
+}
+
+@media (max-width: 768px) {
+  .navbar-links {
+    display: none; /* Hide links */
+    flex-direction: column; /* Stack links vertically */
+    position: absolute; /* Position dropdown */
+    top: 60px; /* Position below navbar */
+    left: 0;
+    width: 100%;
+    background-color: #333; /* Background for dropdown */
+  }
+
+  .navbar-links.active {
+    display: flex; /* Show links when active */
+  }
+
+  .navbar-toggle {
+    display: block; /* Show hamburger icon */
+    cursor: pointer;
+  }
+}
+
+.navbar-toggle {
+  display: none; /* Hide by default */
+  font-size: 24px;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .navbar-toggle {
+    display: block; /* Show hamburger icon on small screens */
+  }
+}

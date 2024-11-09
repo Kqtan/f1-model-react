@@ -1,0 +1,115 @@
+/* src/components/Driver.css */
+
+/* Normal */
+@font-face {
+    font-family: 'F1-regular';
+    src: url('../fonts/Formula1-Regular-1.ttf') format('truetype');
+    font-weight: normal; /* Black weight */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'F1-bold'; /* Replace with the actual font name */
+    src: url('../fonts/Formula1-Bold-4.ttf') format('truetype');
+    font-weight: normal; /* Adjust if needed */
+    font-style: normal; /* Adjust if needed */
+}
+
+.driver-container {
+    font-family: 'F1-regular', Arial, sans-serif;
+    background: #222;
+    color: #61dafb;
+    padding: 20px;
+    /* max-width: 1200px; Set a max width for the container */
+    /* margin: 0 auto; Center the container */
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.header input {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 90%;
+    font-family: 'F1-regular';
+    max-width: 300px; /* Optional: Limit the input field width */
+}
+
+.drivers {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+.driver-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #333;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+    max-width: 800px; /* Set a max width for each driver card */
+    margin: 0;
+    width: 95%;
+    /* align-self: center; */
+}
+
+.driver-card:hover {
+    transform: scale(1.05);
+}
+
+.driver-name {
+    flex: 1;
+    text-align: left;
+    font-family: 'F1-bold', Arial, sans-serif;
+    font-size: large;
+}
+
+/* .driver-name div {
+    font-size: larger;
+} */
+
+.driver-last-name {
+    font-size: larger;
+    color: #ffffff;
+    /* 1dceff */
+}
+
+.driver-details {
+    flex: 0.5;
+    text-align: right;
+    color: #ffffff;
+    font-size: medium;
+}
+
+.permanent-number {
+    flex: 0.5;
+    font-size: 4em;
+    transform: rotate(-7deg);
+    opacity: 0.7;
+    text-align: right;
+    font-family: 'F1-bold', Arial, sans-serif;
+    padding-left: 0.3em;
+    background: linear-gradient(to bottom, #61dafb, #09caff); /* Adjust colors as needed */
+    -webkit-background-clip: text; /* For webkit browsers */
+    -webkit-text-fill-color: transparent; /* For webkit browsers */
+}
+
+/* Add this to your existing CSS file */
+
+.driver-card.selected {
+    background: #0e76a8; /* Change this color when selected */
+    color: #fff; /* Change text color for better visibility */
+    border: 2px solid #61dafb; /* Optional: add a border */
+    transition: background 0.3s ease; /* Smooth transition */
+}

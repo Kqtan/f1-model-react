@@ -1,0 +1,572 @@
+driver,GP_name,driver_home,driver_conf,active_driver,best_position,driver_score,dob,date_first_race
+Alexander Albon,Albert Park Grand Prix Circuit,0,0.9285714285714286,1,10,0.4999999999999999,1996-03-23,2019-03-17
+Alexander Albon,Autodromo Enzo e Dino Ferrari,0,0.9285714285714286,1,11,0.5,1996-03-23,2019-03-17
+Alexander Albon,Autodromo Internazionale del Mugello,0,0.9285714285714286,1,3,4.0,1996-03-23,2019-03-17
+Alexander Albon,Autodromo Nazionale di Monza,0,0.9285714285714286,1,6,1.25,1996-03-23,2019-03-17
+Alexander Albon,Autódromo Hermanos Rodríguez,0,0.9285714285714286,1,5,1.25,1996-03-23,2019-03-17
+Alexander Albon,Autódromo Internacional do Algarve,0,0.9285714285714286,1,12,0.5,1996-03-23,2019-03-17
+Alexander Albon,Autódromo José Carlos Pace,0,0.9285714285714286,1,14,0.5,1996-03-23,2019-03-17
+Alexander Albon,Bahrain International Circuit,0,0.9285714285714286,1,3,2.1,1996-03-23,2019-03-17
+Alexander Albon,Baku City Circuit,0,0.9285714285714286,1,11,0.5,1996-03-23,2019-03-17
+Alexander Albon,Circuit Gilles Villeneuve,0,0.9285714285714286,1,7,0.4999999999999999,1996-03-23,2019-03-17
+Alexander Albon,Circuit Park Zandvoort,0,0.9285714285714286,1,12,0.5,1996-03-23,2019-03-17
+Alexander Albon,Circuit Paul Ricard,0,0.9285714285714286,1,13,0.5,1996-03-23,2019-03-17
+Alexander Albon,Circuit de Barcelona-Catalunya,0,0.9285714285714286,1,8,0.875,1996-03-23,2019-03-17
+Alexander Albon,Circuit de Monaco,0,0.9285714285714286,1,8,0.4999999999999999,1996-03-23,2019-03-17
+Alexander Albon,Circuit de Spa-Francorchamps,0,0.9285714285714286,1,5,1.625,1996-03-23,2019-03-17
+Alexander Albon,Circuit of the Americas,0,0.9285714285714286,1,5,1.25,1996-03-23,2019-03-17
+Alexander Albon,Hockenheimring,0,0.9285714285714286,1,6,2.0,1996-03-23,2019-03-17
+Alexander Albon,Hungaroring,0,0.9285714285714286,1,5,1.25,1996-03-23,2019-03-17
+Alexander Albon,Istanbul Park,0,0.9285714285714286,1,7,2.0,1996-03-23,2019-03-17
+Alexander Albon,Jeddah Corniche Circuit,0,0.9285714285714286,1,14,-0.25,1996-03-23,2019-03-17
+Alexander Albon,Marina Bay Street Circuit,0,0.9285714285714286,1,6,0.5,1996-03-23,2019-03-17
+Alexander Albon,Miami International Autodrome,0,0.9285714285714286,1,9,1.25,1996-03-23,2019-03-17
+Alexander Albon,Nürburgring,0,0.9285714285714286,1,100,-1.0,1996-03-23,2019-03-17
+Alexander Albon,Red Bull Ring,0,0.9285714285714286,1,4,0.8,1996-03-23,2019-03-17
+Alexander Albon,Silverstone Circuit,0,0.9285714285714286,1,5,1.1,1996-03-23,2019-03-17
+Alexander Albon,Sochi Autodrom,0,0.9285714285714286,1,5,2.0,1996-03-23,2019-03-17
+Alexander Albon,Suzuka Circuit,0,0.9285714285714286,1,4,0.5,1996-03-23,2019-03-17
+Alexander Albon,Yas Marina Circuit,0,0.9285714285714286,1,4,1.5,1996-03-23,2019-03-17
+Carlos Sainz,Albert Park Grand Prix Circuit,0,0.9022988505747126,1,8,0.9285714285714284,1994-09-01,2015-03-15
+Carlos Sainz,Autodromo Enzo e Dino Ferrari,0,0.9022988505747126,1,5,1.0,1994-09-01,2015-03-15
+Carlos Sainz,Autodromo Internazionale del Mugello,0,0.9022988505747126,1,100,-1.0,1994-09-01,2015-03-15
+Carlos Sainz,Autodromo Nazionale di Monza,0,0.9022988505747126,1,2,1.3125,1994-09-01,2015-03-15
+Carlos Sainz,Autódromo Hermanos Rodríguez,0,0.9022988505747126,1,5,0.4999999999999999,1994-09-01,2015-03-15
+Carlos Sainz,Autódromo Internacional do Algarve,0,0.9022988505747126,1,6,1.25,1994-09-01,2015-03-15
+Carlos Sainz,Autódromo José Carlos Pace,0,0.9022988505747126,1,3,1.7142857142857142,1994-09-01,2015-03-15
+Carlos Sainz,Bahrain International Circuit,0,0.9022988505747126,1,2,0.85,1994-09-01,2015-03-15
+Carlos Sainz,Baku City Circuit,0,0.9022988505747126,1,5,1.1428571428571428,1994-09-01,2015-03-15
+Carlos Sainz,Circuit Gilles Villeneuve,0,0.9022988505747126,1,2,1.4285714285714286,1994-09-01,2015-03-15
+Carlos Sainz,Circuit Park Zandvoort,0,0.9022988505747126,1,7,2.0,1994-09-01,2015-03-15
+Carlos Sainz,Circuit Paul Ricard,0,0.9022988505747126,1,5,1.625,1994-09-01,2015-03-15
+Carlos Sainz,Circuit de Barcelona-Catalunya,1,0.9022988505747126,1,4,2.0,1994-09-01,2015-03-15
+Carlos Sainz,Circuit de Monaco,0,0.9022988505747126,1,2,2.5,1994-09-01,2015-03-15
+Carlos Sainz,Circuit de Spa-Francorchamps,0,0.9022988505747126,1,3,0.3888888888888888,1994-09-01,2015-03-15
+Carlos Sainz,Circuit of the Americas,0,0.9022988505747126,1,6,1.5714285714285714,1994-09-01,2015-03-15
+Carlos Sainz,Hockenheimring,0,0.9022988505747126,1,5,1.0,1994-09-01,2015-03-15
+Carlos Sainz,Hungaroring,0,0.9022988505747126,1,3,1.8888888888888888,1994-09-01,2015-03-15
+Carlos Sainz,Istanbul Park,0,0.9022988505747126,1,5,2.0,1994-09-01,2015-03-15
+Carlos Sainz,Jeddah Corniche Circuit,0,0.9022988505747126,1,3,2.6666666666666665,1994-09-01,2015-03-15
+Carlos Sainz,Losail International Circuit,0,0.9022988505747126,1,7,2.0,1994-09-01,2015-03-15
+Carlos Sainz,Marina Bay Street Circuit,0,0.9022988505747126,1,3,1.8333333333333333,1994-09-01,2015-03-15
+Carlos Sainz,Miami International Autodrome,0,0.9022988505747126,1,3,3.0,1994-09-01,2015-03-15
+Carlos Sainz,Nürburgring,0,0.9022988505747126,1,5,2.0,1994-09-01,2015-03-15
+Carlos Sainz,Red Bull Ring,0,0.9022988505747126,1,5,1.0454545454545454,1994-09-01,2015-03-15
+Carlos Sainz,Sepang International Circuit,0,0.9022988505747126,1,8,0.4999999999999999,1994-09-01,2015-03-15
+Carlos Sainz,Shanghai International Circuit,0,0.9022988505747126,1,7,1.4,1994-09-01,2015-03-15
+Carlos Sainz,Silverstone Circuit,0,0.9022988505747126,1,1,1.35,1994-09-01,2015-03-15
+Carlos Sainz,Sochi Autodrom,0,0.9022988505747126,1,3,1.3333333333333333,1994-09-01,2015-03-15
+Carlos Sainz,Suzuka Circuit,0,0.9022988505747126,1,5,0.75,1994-09-01,2015-03-15
+Carlos Sainz,Yas Marina Circuit,0,0.9022988505747126,1,3,1.3125,1994-09-01,2015-03-15
+Charles Leclerc,Albert Park Grand Prix Circuit,0,0.8956521739130435,1,1,2.25,1997-10-16,2018-03-25
+Charles Leclerc,Autodromo Enzo e Dino Ferrari,0,0.8956521739130435,1,4,2.0,1997-10-16,2018-03-25
+Charles Leclerc,Autodromo Internazionale del Mugello,0,0.8956521739130435,1,8,2.0,1997-10-16,2018-03-25
+Charles Leclerc,Autodromo Nazionale di Monza,0,0.8956521739130435,1,1,2.6,1997-10-16,2018-03-25
+Charles Leclerc,Autódromo Hermanos Rodríguez,0,0.8956521739130435,1,4,2.0,1997-10-16,2018-03-25
+Charles Leclerc,Autódromo Internacional do Algarve,0,0.8956521739130435,1,4,2.0,1997-10-16,2018-03-25
+Charles Leclerc,Autódromo José Carlos Pace,0,0.8956521739130435,1,4,1.625,1997-10-16,2018-03-25
+Charles Leclerc,Bahrain International Circuit,0,0.8956521739130435,1,1,2.0,1997-10-16,2018-03-25
+Charles Leclerc,Baku City Circuit,0,0.8956521739130435,1,3,1.8,1997-10-16,2018-03-25
+Charles Leclerc,Circuit Gilles Villeneuve,0,0.8956521739130435,1,3,2.5,1997-10-16,2018-03-25
+Charles Leclerc,Circuit Park Zandvoort,0,0.8956521739130435,1,3,3.0,1997-10-16,2018-03-25
+Charles Leclerc,Circuit Paul Ricard,0,0.8956521739130435,1,3,1.375,1997-10-16,2018-03-25
+Charles Leclerc,Circuit de Barcelona-Catalunya,0,0.8956521739130435,1,4,0.75,1997-10-16,2018-03-25
+Charles Leclerc,Circuit de Monaco,1,0.8956521739130435,1,4,0.2,1997-10-16,2018-03-25
+Charles Leclerc,Circuit de Spa-Francorchamps,0,0.8956521739130435,1,1,2.5,1997-10-16,2018-03-25
+Charles Leclerc,Circuit of the Americas,0,0.8956521739130435,1,3,1.75,1997-10-16,2018-03-25
+Charles Leclerc,Hockenheimring,0,0.8956521739130435,1,15,-0.25,1997-10-16,2018-03-25
+Charles Leclerc,Hungaroring,0,0.8956521739130435,1,4,0.75,1997-10-16,2018-03-25
+Charles Leclerc,Istanbul Park,0,0.8956521739130435,1,4,2.0,1997-10-16,2018-03-25
+Charles Leclerc,Jeddah Corniche Circuit,0,0.8956521739130435,1,2,2.6666666666666665,1997-10-16,2018-03-25
+Charles Leclerc,Losail International Circuit,0,0.8956521739130435,1,8,2.0,1997-10-16,2018-03-25
+Charles Leclerc,Marina Bay Street Circuit,0,0.8956521739130435,1,2,3.333333333333333,1997-10-16,2018-03-25
+Charles Leclerc,Miami International Autodrome,0,0.8956521739130435,1,2,3.0,1997-10-16,2018-03-25
+Charles Leclerc,Nürburgring,0,0.8956521739130435,1,7,2.0,1997-10-16,2018-03-25
+Charles Leclerc,Red Bull Ring,0,0.8956521739130435,1,1,3.0625,1997-10-16,2018-03-25
+Charles Leclerc,Shanghai International Circuit,0,0.8956521739130435,1,5,1.25,1997-10-16,2018-03-25
+Charles Leclerc,Silverstone Circuit,0,0.8956521739130435,1,2,2.4285714285714284,1997-10-16,2018-03-25
+Charles Leclerc,Sochi Autodrom,0,0.8956521739130435,1,3,2.125,1997-10-16,2018-03-25
+Charles Leclerc,Suzuka Circuit,0,0.8956521739130435,1,3,1.6666666666666663,1997-10-16,2018-03-25
+Charles Leclerc,Yas Marina Circuit,0,0.8956521739130435,1,2,2.5,1997-10-16,2018-03-25
+Daniel Ricciardo,Albert Park Grand Prix Circuit,1,0.9527896995708156,1,4,0.6666666666666667,1989-07-01,2011-07-10
+Daniel Ricciardo,Autodromo Enzo e Dino Ferrari,0,0.9527896995708156,1,3,2.1666666666666665,1989-07-01,2011-07-10
+Daniel Ricciardo,Autodromo Internazionale del Mugello,0,0.9527896995708156,1,4,2.0,1989-07-01,2011-07-10
+Daniel Ricciardo,Autodromo Nazionale di Monza,0,0.9527896995708156,1,1,1.5833333333333337,1989-07-01,2011-07-10
+Daniel Ricciardo,Autódromo Hermanos Rodríguez,0,0.9527896995708156,1,3,1.2142857142857144,1989-07-01,2011-07-10
+Daniel Ricciardo,Autódromo Internacional do Algarve,0,0.9527896995708156,1,9,2.0,1989-07-01,2011-07-10
+Daniel Ricciardo,Autódromo José Carlos Pace,0,0.9527896995708156,1,4,0.7727272727272727,1989-07-01,2011-07-10
+Daniel Ricciardo,Bahrain International Circuit,0,0.9527896995708156,1,4,1.1249999999999998,1989-07-01,2011-07-10
+Daniel Ricciardo,Baku City Circuit,0,0.9527896995708156,1,1,1.9166666666666667,1989-07-01,2011-07-10
+Daniel Ricciardo,Buddh International Circuit,0,0.9527896995708156,1,10,1.0,1989-07-01,2011-07-10
+Daniel Ricciardo,Circuit Gilles Villeneuve,0,0.9527896995708156,1,1,2.1666666666666665,1989-07-01,2011-07-10
+Daniel Ricciardo,Circuit Park Zandvoort,0,0.9527896995708156,1,11,0.5,1989-07-01,2011-07-10
+Daniel Ricciardo,Circuit Paul Ricard,0,0.9527896995708156,1,4,1.625,1989-07-01,2011-07-10
+Daniel Ricciardo,Circuit de Barcelona-Catalunya,0,0.9527896995708156,1,3,1.818181818181818,1989-07-01,2011-07-10
+Daniel Ricciardo,Circuit de Monaco,0,0.9527896995708156,1,1,2.25,1989-07-01,2011-07-10
+Daniel Ricciardo,Circuit de Spa-Francorchamps,0,0.9527896995708156,1,1,1.6923076923076923,1989-07-01,2011-07-10
+Daniel Ricciardo,Circuit of the Americas,0,0.9527896995708156,1,3,1.35,1989-07-01,2011-07-10
+Daniel Ricciardo,Hockenheimring,0,0.9527896995708156,1,2,0.9,1989-07-01,2011-07-10
+Daniel Ricciardo,Hungaroring,0,0.9527896995708156,1,1,1.6923076923076927,1989-07-01,2011-07-10
+Daniel Ricciardo,Istanbul Park,0,0.9527896995708156,1,10,1.25,1989-07-01,2011-07-10
+Daniel Ricciardo,Jeddah Corniche Circuit,0,0.9527896995708156,1,5,0.5,1989-07-01,2011-07-10
+Daniel Ricciardo,Korean International Circuit,0,0.9527896995708156,1,9,1.0,1989-07-01,2011-07-10
+Daniel Ricciardo,Losail International Circuit,0,0.9527896995708156,1,12,0.5,1989-07-01,2011-07-10
+Daniel Ricciardo,Marina Bay Street Circuit,0,0.9527896995708156,1,2,2.2,1989-07-01,2011-07-10
+Daniel Ricciardo,Miami International Autodrome,0,0.9527896995708156,1,13,0.5,1989-07-01,2011-07-10
+Daniel Ricciardo,Nürburgring,0,0.9527896995708156,1,3,1.6666666666666663,1989-07-01,2011-07-10
+Daniel Ricciardo,Red Bull Ring,0,0.9527896995708156,1,3,1.3636363636363635,1989-07-01,2011-07-10
+Daniel Ricciardo,Sepang International Circuit,0,0.9527896995708156,1,1,2.25,1989-07-01,2011-07-10
+Daniel Ricciardo,Shanghai International Circuit,0,0.9527896995708156,1,1,2.5,1989-07-01,2011-07-10
+Daniel Ricciardo,Silverstone Circuit,0,0.9527896995708156,1,3,1.461538461538462,1989-07-01,2011-07-10
+Daniel Ricciardo,Sochi Autodrom,0,0.9527896995708156,1,4,0.875,1989-07-01,2011-07-10
+Daniel Ricciardo,Suzuka Circuit,0,0.9527896995708156,1,3,1.2999999999999998,1989-07-01,2011-07-10
+Daniel Ricciardo,Valencia Street Circuit,0,0.9527896995708156,1,11,0.5,1989-07-01,2011-07-10
+Daniel Ricciardo,Yas Marina Circuit,0,0.9527896995708156,1,4,1.0454545454545454,1989-07-01,2011-07-10
+Esteban Ocon,Albert Park Grand Prix Circuit,0,0.9426229508196722,1,7,1.25,1996-09-17,2016-08-28
+Esteban Ocon,Autodromo Enzo e Dino Ferrari,0,0.9426229508196722,1,9,0.4999999999999999,1996-09-17,2016-08-28
+Esteban Ocon,Autodromo Internazionale del Mugello,0,0.9426229508196722,1,100,-1.0,1996-09-17,2016-08-28
+Esteban Ocon,Autodromo Nazionale di Monza,0,0.9426229508196722,1,6,1.7,1996-09-17,2016-08-28
+Esteban Ocon,Autódromo Hermanos Rodríguez,0,0.9426229508196722,1,5,1.1,1996-09-17,2016-08-28
+Esteban Ocon,Autódromo Internacional do Algarve,0,0.9426229508196722,1,7,2.0,1996-09-17,2016-08-28
+Esteban Ocon,Autódromo José Carlos Pace,0,0.9426229508196722,1,8,0.8,1996-09-17,2016-08-28
+Esteban Ocon,Bahrain International Circuit,0,0.9426229508196722,1,2,1.642857142857143,1996-09-17,2016-08-28
+Esteban Ocon,Baku City Circuit,0,0.9426229508196722,1,6,0.5,1996-09-17,2016-08-28
+Esteban Ocon,Circuit Gilles Villeneuve,0,0.9426229508196722,1,6,2.0,1996-09-17,2016-08-28
+Esteban Ocon,Circuit Park Zandvoort,0,0.9426229508196722,1,9,2.0,1996-09-17,2016-08-28
+Esteban Ocon,Circuit Paul Ricard,0,0.9426229508196722,1,8,0.4999999999999999,1996-09-17,2016-08-28
+Esteban Ocon,Circuit de Barcelona-Catalunya,0,0.9426229508196722,1,5,1.2499999999999998,1996-09-17,2016-08-28
+Esteban Ocon,Circuit de Monaco,0,0.9426229508196722,1,3,1.7999999999999998,1996-09-17,2016-08-28
+Esteban Ocon,Circuit de Spa-Francorchamps,0,0.9426229508196722,1,5,1.7857142857142856,1996-09-17,2016-08-28
+Esteban Ocon,Circuit of the Americas,0,0.9426229508196722,1,6,0.2,1996-09-17,2016-08-28
+Esteban Ocon,Hockenheimring,0,0.9426229508196722,1,8,2.0,1996-09-17,2016-08-28
+Esteban Ocon,Hungaroring,0,0.9426229508196722,1,1,1.9166666666666667,1996-09-17,2016-08-28
+Esteban Ocon,Istanbul Park,0,0.9426229508196722,1,10,1.25,1996-09-17,2016-08-28
+Esteban Ocon,Jeddah Corniche Circuit,0,0.9426229508196722,1,4,2.0,1996-09-17,2016-08-28
+Esteban Ocon,Losail International Circuit,0,0.9426229508196722,1,5,2.0,1996-09-17,2016-08-28
+Esteban Ocon,Marina Bay Street Circuit,0,0.9426229508196722,1,10,0.125,1996-09-17,2016-08-28
+Esteban Ocon,Miami International Autodrome,0,0.9426229508196722,1,8,2.0,1996-09-17,2016-08-28
+Esteban Ocon,Nürburgring,0,0.9426229508196722,1,100,-1.0,1996-09-17,2016-08-28
+Esteban Ocon,Red Bull Ring,0,0.9426229508196722,1,5,0.875,1996-09-17,2016-08-28
+Esteban Ocon,Sepang International Circuit,0,0.9426229508196722,1,10,1.25,1996-09-17,2016-08-28
+Esteban Ocon,Shanghai International Circuit,0,0.9426229508196722,1,10,1.25,1996-09-17,2016-08-28
+Esteban Ocon,Silverstone Circuit,0,0.9426229508196722,1,6,1.1428571428571428,1996-09-17,2016-08-28
+Esteban Ocon,Sochi Autodrom,0,0.9426229508196722,1,7,1.625,1996-09-17,2016-08-28
+Esteban Ocon,Suzuka Circuit,0,0.9426229508196722,1,4,1.625,1996-09-17,2016-08-28
+Esteban Ocon,Yas Marina Circuit,0,0.9426229508196722,1,7,1.2499999999999998,1996-09-17,2016-08-28
+Fernando Alonso,Albert Park Grand Prix Circuit,0,0.9388646288209608,1,2,1.65,1981-07-29,2010-03-14
+Fernando Alonso,Autodromo Enzo e Dino Ferrari,0,0.9388646288209608,1,10,0.5,1981-07-29,2010-03-14
+Fernando Alonso,Autodromo Nazionale di Monza,0,0.9388646288209608,1,1,1.818181818181818,1981-07-29,2010-03-14
+Fernando Alonso,Autódromo Hermanos Rodríguez,0,0.9388646288209608,1,9,0.4999999999999999,1981-07-29,2010-03-14
+Fernando Alonso,Autódromo Internacional do Algarve,0,0.9388646288209608,1,8,2.0,1981-07-29,2010-03-14
+Fernando Alonso,Autódromo José Carlos Pace,0,0.9388646288209608,1,2,2.2727272727272725,1981-07-29,2010-03-14
+Fernando Alonso,Bahrain International Circuit,0,0.9388646288209608,1,1,2.15,1981-07-29,2010-03-14
+Fernando Alonso,Baku City Circuit,0,0.9388646288209608,1,4,1.4999999999999998,1981-07-29,2010-03-14
+Fernando Alonso,Buddh International Circuit,0,0.9388646288209608,1,2,2.833333333333333,1981-07-29,2010-03-14
+Fernando Alonso,Circuit Gilles Villeneuve,0,0.9388646288209608,1,2,1.4545454545454544,1981-07-29,2010-03-14
+Fernando Alonso,Circuit Park Zandvoort,0,0.9388646288209608,1,6,2.0,1981-07-29,2010-03-14
+Fernando Alonso,Circuit Paul Ricard,0,0.9388646288209608,1,6,1.5,1981-07-29,2010-03-14
+Fernando Alonso,Circuit de Barcelona-Catalunya,1,0.9388646288209608,1,1,2.041666666666667,1981-07-29,2010-03-14
+Fernando Alonso,Circuit de Monaco,0,0.9388646288209608,1,2,1.8636363636363635,1981-07-29,2010-03-14
+Fernando Alonso,Circuit de Spa-Francorchamps,0,0.9388646288209608,1,2,0.818181818181818,1981-07-29,2010-03-14
+Fernando Alonso,Circuit of the Americas,0,0.9388646288209608,1,3,1.0555555555555554,1981-07-29,2010-03-14
+Fernando Alonso,Hockenheimring,0,0.9388646288209608,1,1,3.6,1981-07-29,2010-03-14
+Fernando Alonso,Hungaroring,0,0.9388646288209608,1,2,2.5,1981-07-29,2010-03-14
+Fernando Alonso,Istanbul Park,0,0.9388646288209608,1,3,2.1666666666666665,1981-07-29,2010-03-14
+Fernando Alonso,Jeddah Corniche Circuit,0,0.9388646288209608,1,3,1.1666666666666663,1981-07-29,2010-03-14
+Fernando Alonso,Korean International Circuit,0,0.9388646288209608,1,1,3.875,1981-07-29,2010-03-14
+Fernando Alonso,Losail International Circuit,0,0.9388646288209608,1,3,4.0,1981-07-29,2010-03-14
+Fernando Alonso,Marina Bay Street Circuit,0,0.9388646288209608,1,1,2.0500000000000003,1981-07-29,2010-03-14
+Fernando Alonso,Miami International Autodrome,0,0.9388646288209608,1,3,2.25,1981-07-29,2010-03-14
+Fernando Alonso,Nürburgring,0,0.9388646288209608,1,2,3.0,1981-07-29,2010-03-14
+Fernando Alonso,Red Bull Ring,0,0.9388646288209608,1,5,1.1666666666666663,1981-07-29,2010-03-14
+Fernando Alonso,Sepang International Circuit,0,0.9388646288209608,1,1,1.5625,1981-07-29,2010-03-14
+Fernando Alonso,Shanghai International Circuit,0,0.9388646288209608,1,1,2.1666666666666665,1981-07-29,2010-03-14
+Fernando Alonso,Silverstone Circuit,0,0.9388646288209608,1,1,2.2916666666666665,1981-07-29,2010-03-14
+Fernando Alonso,Sochi Autodrom,0,0.9388646288209608,1,6,1.0,1981-07-29,2010-03-14
+Fernando Alonso,Suzuka Circuit,0,0.9388646288209608,1,2,1.2,1981-07-29,2010-03-14
+Fernando Alonso,Valencia Street Circuit,1,0.9388646288209608,1,1,4.5,1981-07-29,2010-03-14
+Fernando Alonso,Yas Marina Circuit,0,0.9388646288209608,1,2,1.8181818181818183,1981-07-29,2010-03-14
+George Russell,Albert Park Grand Prix Circuit,0,0.9361702127659576,1,3,1.1666666666666663,1998-02-15,2019-03-17
+George Russell,Autodromo Enzo e Dino Ferrari,0,0.9361702127659576,1,4,0.0,1998-02-15,2019-03-17
+George Russell,Autodromo Internazionale del Mugello,0,0.9361702127659576,1,11,0.5,1998-02-15,2019-03-17
+George Russell,Autodromo Nazionale di Monza,0,0.9361702127659576,1,3,1.75,1998-02-15,2019-03-17
+George Russell,Autódromo Hermanos Rodríguez,0,0.9361702127659576,1,4,1.0,1998-02-15,2019-03-17
+George Russell,Autódromo Internacional do Algarve,0,0.9361702127659576,1,14,0.5,1998-02-15,2019-03-17
+George Russell,Autódromo José Carlos Pace,0,0.9361702127659576,1,1,2.833333333333333,1998-02-15,2019-03-17
+George Russell,Bahrain International Circuit,0,0.9361702127659576,1,4,1.25,1998-02-15,2019-03-17
+George Russell,Baku City Circuit,0,0.9361702127659576,1,3,1.375,1998-02-15,2019-03-17
+George Russell,Circuit Gilles Villeneuve,0,0.9361702127659576,1,4,0.4999999999999999,1998-02-15,2019-03-17
+George Russell,Circuit Park Zandvoort,0,0.9361702127659576,1,2,2.25,1998-02-15,2019-03-17
+George Russell,Circuit Paul Ricard,0,0.9361702127659576,1,3,1.6666666666666663,1998-02-15,2019-03-17
+George Russell,Circuit de Barcelona-Catalunya,0,0.9361702127659576,1,3,1.9,1998-02-15,2019-03-17
+George Russell,Circuit de Monaco,0,0.9361702127659576,1,5,1.25,1998-02-15,2019-03-17
+George Russell,Circuit de Spa-Francorchamps,0,0.9361702127659576,1,2,1.4999999999999998,1998-02-15,2019-03-17
+George Russell,Circuit of the Americas,0,0.9361702127659576,1,5,1.0,1998-02-15,2019-03-17
+George Russell,Hockenheimring,0,0.9361702127659576,1,11,0.5,1998-02-15,2019-03-17
+George Russell,Hungaroring,0,0.9361702127659576,1,3,1.7999999999999998,1998-02-15,2019-03-17
+George Russell,Istanbul Park,0,0.9361702127659576,1,15,0.5,1998-02-15,2019-03-17
+George Russell,Jeddah Corniche Circuit,0,0.9361702127659576,1,4,1.0,1998-02-15,2019-03-17
+George Russell,Losail International Circuit,0,0.9361702127659576,1,17,0.5,1998-02-15,2019-03-17
+George Russell,Marina Bay Street Circuit,0,0.9361702127659576,1,14,-0.25,1998-02-15,2019-03-17
+George Russell,Miami International Autodrome,0,0.9361702127659576,1,4,2.0,1998-02-15,2019-03-17
+George Russell,Nürburgring,0,0.9361702127659576,1,100,-1.0,1998-02-15,2019-03-17
+George Russell,Red Bull Ring,0,0.9361702127659576,1,4,0.4999999999999999,1998-02-15,2019-03-17
+George Russell,Shanghai International Circuit,0,0.9361702127659576,1,16,0.5,1998-02-15,2019-03-17
+George Russell,Silverstone Circuit,1,0.9361702127659576,1,5,0.5,1998-02-15,2019-03-17
+George Russell,Sochi Autodrom,0,0.9361702127659576,1,10,0.4999999999999999,1998-02-15,2019-03-17
+George Russell,Suzuka Circuit,0,0.9361702127659576,1,8,1.25,1998-02-15,2019-03-17
+George Russell,Yas Marina Circuit,0,0.9361702127659576,1,5,0.5,1998-02-15,2019-03-17
+Guanyu Zhou,Albert Park Grand Prix Circuit,0,0.9411764705882352,1,9,1.25,1999-05-30,2022-03-20
+Guanyu Zhou,Autodromo Enzo e Dino Ferrari,0,0.9411764705882352,1,15,0.5,1999-05-30,2022-03-20
+Guanyu Zhou,Autodromo Nazionale di Monza,0,0.9411764705882352,1,10,2.0,1999-05-30,2022-03-20
+Guanyu Zhou,Autódromo Hermanos Rodríguez,0,0.9411764705882352,1,13,0.5,1999-05-30,2022-03-20
+Guanyu Zhou,Autódromo José Carlos Pace,0,0.9411764705882352,1,12,0.5,1999-05-30,2022-03-20
+Guanyu Zhou,Bahrain International Circuit,0,0.9411764705882352,1,10,1.25,1999-05-30,2022-03-20
+Guanyu Zhou,Baku City Circuit,0,0.9411764705882352,1,100,-1.0,1999-05-30,2022-03-20
+Guanyu Zhou,Circuit Gilles Villeneuve,0,0.9411764705882352,1,8,1.25,1999-05-30,2022-03-20
+Guanyu Zhou,Circuit Park Zandvoort,0,0.9411764705882352,1,16,0.5,1999-05-30,2022-03-20
+Guanyu Zhou,Circuit Paul Ricard,0,0.9411764705882352,1,16,0.5,1999-05-30,2022-03-20
+Guanyu Zhou,Circuit de Barcelona-Catalunya,0,0.9411764705882352,1,9,0.5,1999-05-30,2022-03-20
+Guanyu Zhou,Circuit de Monaco,0,0.9411764705882352,1,13,0.5,1999-05-30,2022-03-20
+Guanyu Zhou,Circuit de Spa-Francorchamps,0,0.9411764705882352,1,13,0.5,1999-05-30,2022-03-20
+Guanyu Zhou,Circuit of the Americas,0,0.9411764705882352,1,12,0.5,1999-05-30,2022-03-20
+Guanyu Zhou,Hungaroring,0,0.9411764705882352,1,13,0.5,1999-05-30,2022-03-20
+Guanyu Zhou,Jeddah Corniche Circuit,0,0.9411764705882352,1,11,0.5,1999-05-30,2022-03-20
+Guanyu Zhou,Marina Bay Street Circuit,0,0.9411764705882352,1,100,-1.0,1999-05-30,2022-03-20
+Guanyu Zhou,Miami International Autodrome,0,0.9411764705882352,1,16,-0.25,1999-05-30,2022-03-20
+Guanyu Zhou,Red Bull Ring,0,0.9411764705882352,1,12,0.5,1999-05-30,2022-03-20
+Guanyu Zhou,Silverstone Circuit,0,0.9411764705882352,1,15,-0.25,1999-05-30,2022-03-20
+Guanyu Zhou,Suzuka Circuit,0,0.9411764705882352,1,16,0.5,1999-05-30,2022-03-20
+Guanyu Zhou,Yas Marina Circuit,0,0.9411764705882352,1,12,0.5,1999-05-30,2022-03-20
+Kevin Magnussen,Albert Park Grand Prix Circuit,0,0.9215686274509804,1,2,0.5625,1992-10-05,2014-03-16
+Kevin Magnussen,Autodromo Enzo e Dino Ferrari,0,0.9215686274509804,1,9,0.5,1992-10-05,2014-03-16
+Kevin Magnussen,Autodromo Internazionale del Mugello,0,0.9215686274509804,1,100,-1.0,1992-10-05,2014-03-16
+Kevin Magnussen,Autodromo Nazionale di Monza,0,0.9215686274509804,1,10,0.2857142857142857,1992-10-05,2014-03-16
+Kevin Magnussen,Autódromo Hermanos Rodríguez,0,0.9215686274509804,1,8,0.8,1992-10-05,2014-03-16
+Kevin Magnussen,Autódromo Internacional do Algarve,0,0.9215686274509804,1,16,0.5,1992-10-05,2014-03-16
+Kevin Magnussen,Autódromo José Carlos Pace,0,0.9215686274509804,1,9,0.4999999999999999,1992-10-05,2014-03-16
+Kevin Magnussen,Bahrain International Circuit,0,0.9215686274509804,1,5,0.4999999999999999,1992-10-05,2014-03-16
+Kevin Magnussen,Baku City Circuit,0,0.9215686274509804,1,7,0.5,1992-10-05,2014-03-16
+Kevin Magnussen,Circuit Gilles Villeneuve,0,0.9215686274509804,1,9,0.75,1992-10-05,2014-03-16
+Kevin Magnussen,Circuit Park Zandvoort,0,0.9215686274509804,1,15,0.5,1992-10-05,2014-03-16
+Kevin Magnussen,Circuit Paul Ricard,0,0.9215686274509804,1,6,0.4999999999999999,1992-10-05,2014-03-16
+Kevin Magnussen,Circuit de Barcelona-Catalunya,0,0.9215686274509804,1,6,0.875,1992-10-05,2014-03-16
+Kevin Magnussen,Circuit de Monaco,0,0.9215686274509804,1,10,0.2857142857142856,1992-10-05,2014-03-16
+Kevin Magnussen,Circuit de Spa-Francorchamps,0,0.9215686274509804,1,8,0.5,1992-10-05,2014-03-16
+Kevin Magnussen,Circuit of the Americas,0,0.9215686274509804,1,8,0.75,1992-10-05,2014-03-16
+Kevin Magnussen,Hockenheimring,0,0.9215686274509804,1,8,1.25,1992-10-05,2014-03-16
+Kevin Magnussen,Hungaroring,0,0.9215686274509804,1,7,0.875,1992-10-05,2014-03-16
+Kevin Magnussen,Istanbul Park,0,0.9215686274509804,1,17,0.5,1992-10-05,2014-03-16
+Kevin Magnussen,Jeddah Corniche Circuit,0,0.9215686274509804,1,9,2.0,1992-10-05,2014-03-16
+Kevin Magnussen,Marina Bay Street Circuit,0,0.9215686274509804,1,10,0.75,1992-10-05,2014-03-16
+Kevin Magnussen,Miami International Autodrome,0,0.9215686274509804,1,10,1.25,1992-10-05,2014-03-16
+Kevin Magnussen,Nürburgring,0,0.9215686274509804,1,13,0.5,1992-10-05,2014-03-16
+Kevin Magnussen,Red Bull Ring,0,0.9215686274509804,1,5,0.6666666666666666,1992-10-05,2014-03-16
+Kevin Magnussen,Sepang International Circuit,0,0.9215686274509804,1,9,0.4999999999999999,1992-10-05,2014-03-16
+Kevin Magnussen,Shanghai International Circuit,0,0.9215686274509804,1,8,1.1,1992-10-05,2014-03-16
+Kevin Magnussen,Silverstone Circuit,0,0.9215686274509804,1,7,0.3333333333333333,1992-10-05,2014-03-16
+Kevin Magnussen,Sochi Autodrom,0,0.9215686274509804,1,5,1.5,1992-10-05,2014-03-16
+Kevin Magnussen,Suzuka Circuit,0,0.9215686274509804,1,8,0.5,1992-10-05,2014-03-16
+Kevin Magnussen,Yas Marina Circuit,0,0.9215686274509804,1,10,0.4999999999999999,1992-10-05,2014-03-16
+Lance Stroll,Albert Park Grand Prix Circuit,0,0.8955223880597015,1,4,0.8,1998-10-29,2017-03-26
+Lance Stroll,Autodromo Enzo e Dino Ferrari,0,0.8955223880597015,1,8,1.5,1998-10-29,2017-03-26
+Lance Stroll,Autodromo Internazionale del Mugello,0,0.8955223880597015,1,100,-1.0,1998-10-29,2017-03-26
+Lance Stroll,Autodromo Nazionale di Monza,0,0.8955223880597015,1,3,1.5833333333333333,1998-10-29,2017-03-26
+Lance Stroll,Autódromo Hermanos Rodríguez,0,0.8955223880597015,1,6,0.8,1998-10-29,2017-03-26
+Lance Stroll,Autódromo Internacional do Algarve,0,0.8955223880597015,1,14,-0.25,1998-10-29,2017-03-26
+Lance Stroll,Autódromo José Carlos Pace,0,0.8955223880597015,1,10,0.4999999999999999,1998-10-29,2017-03-26
+Lance Stroll,Bahrain International Circuit,0,0.8955223880597015,1,3,0.9375,1998-10-29,2017-03-26
+Lance Stroll,Baku City Circuit,0,0.8955223880597015,1,3,1.5833333333333333,1998-10-29,2017-03-26
+Lance Stroll,Circuit Gilles Villeneuve,1,0.8955223880597015,1,9,1.4,1998-10-29,2017-03-26
+Lance Stroll,Circuit Park Zandvoort,0,0.8955223880597015,1,10,1.25,1998-10-29,2017-03-26
+Lance Stroll,Circuit Paul Ricard,0,0.8955223880597015,1,10,1.25,1998-10-29,2017-03-26
+Lance Stroll,Circuit de Barcelona-Catalunya,0,0.8955223880597015,1,4,0.7142857142857142,1998-10-29,2017-03-26
+Lance Stroll,Circuit de Monaco,0,0.8955223880597015,1,8,0.5,1998-10-29,2017-03-26
+Lance Stroll,Circuit de Spa-Francorchamps,0,0.8955223880597015,1,9,1.1428571428571428,1998-10-29,2017-03-26
+Lance Stroll,Circuit of the Americas,0,0.8955223880597015,1,11,0.2,1998-10-29,2017-03-26
+Lance Stroll,Hockenheimring,0,0.8955223880597015,1,4,0.5,1998-10-29,2017-03-26
+Lance Stroll,Hungaroring,0,0.8955223880597015,1,4,0.7142857142857142,1998-10-29,2017-03-26
+Lance Stroll,Istanbul Park,0,0.8955223880597015,1,9,2.0,1998-10-29,2017-03-26
+Lance Stroll,Jeddah Corniche Circuit,0,0.8955223880597015,1,11,0.0,1998-10-29,2017-03-26
+Lance Stroll,Losail International Circuit,0,0.8955223880597015,1,6,2.0,1998-10-29,2017-03-26
+Lance Stroll,Marina Bay Street Circuit,0,0.8955223880597015,1,6,1.25,1998-10-29,2017-03-26
+Lance Stroll,Miami International Autodrome,0,0.8955223880597015,1,10,1.25,1998-10-29,2017-03-26
+Lance Stroll,Red Bull Ring,0,0.8955223880597015,1,7,1.0,1998-10-29,2017-03-26
+Lance Stroll,Sepang International Circuit,0,0.8955223880597015,1,8,2.0,1998-10-29,2017-03-26
+Lance Stroll,Shanghai International Circuit,0,0.8955223880597015,1,12,0.0,1998-10-29,2017-03-26
+Lance Stroll,Silverstone Circuit,0,0.8955223880597015,1,6,1.0625,1998-10-29,2017-03-26
+Lance Stroll,Sochi Autodrom,0,0.8955223880597015,1,11,0.2,1998-10-29,2017-03-26
+Lance Stroll,Suzuka Circuit,0,0.8955223880597015,1,9,0.5,1998-10-29,2017-03-26
+Lance Stroll,Yas Marina Circuit,0,0.8955223880597015,1,8,0.75,1998-10-29,2017-03-26
+Lando Norris,Albert Park Grand Prix Circuit,0,0.9574468085106383,1,5,1.5,1999-11-13,2019-03-17
+Lando Norris,Autodromo Enzo e Dino Ferrari,0,0.9574468085106383,1,3,3.333333333333333,1999-11-13,2019-03-17
+Lando Norris,Autodromo Internazionale del Mugello,0,0.9574468085106383,1,6,2.0,1999-11-13,2019-03-17
+Lando Norris,Autodromo Nazionale di Monza,0,0.9574468085106383,1,2,2.5,1999-11-13,2019-03-17
+Lando Norris,Autódromo Hermanos Rodríguez,0,0.9574468085106383,1,9,1.0,1999-11-13,2019-03-17
+Lando Norris,Autódromo Internacional do Algarve,0,0.9574468085106383,1,5,1.25,1999-11-13,2019-03-17
+Lando Norris,Autódromo José Carlos Pace,0,0.9574468085106383,1,8,1.0,1999-11-13,2019-03-17
+Lando Norris,Bahrain International Circuit,0,0.9574468085106383,1,4,1.5,1999-11-13,2019-03-17
+Lando Norris,Baku City Circuit,0,0.9574468085106383,1,5,2.0,1999-11-13,2019-03-17
+Lando Norris,Circuit Gilles Villeneuve,0,0.9574468085106383,1,13,0.0,1999-11-13,2019-03-17
+Lando Norris,Circuit Park Zandvoort,0,0.9574468085106383,1,7,2.0,1999-11-13,2019-03-17
+Lando Norris,Circuit Paul Ricard,0,0.9574468085106383,1,5,2.0,1999-11-13,2019-03-17
+Lando Norris,Circuit de Barcelona-Catalunya,0,0.9574468085106383,1,8,1.1,1999-11-13,2019-03-17
+Lando Norris,Circuit de Monaco,0,0.9574468085106383,1,3,2.125,1999-11-13,2019-03-17
+Lando Norris,Circuit de Spa-Francorchamps,0,0.9574468085106383,1,7,1.1,1999-11-13,2019-03-17
+Lando Norris,Circuit of the Americas,0,0.9574468085106383,1,6,2.0,1999-11-13,2019-03-17
+Lando Norris,Hockenheimring,0,0.9574468085106383,1,100,-1.0,1999-11-13,2019-03-17
+Lando Norris,Hungaroring,0,0.9574468085106383,1,2,1.4999999999999998,1999-11-13,2019-03-17
+Lando Norris,Istanbul Park,0,0.9574468085106383,1,7,2.0,1999-11-13,2019-03-17
+Lando Norris,Jeddah Corniche Circuit,0,0.9574468085106383,1,7,1.5,1999-11-13,2019-03-17
+Lando Norris,Losail International Circuit,0,0.9574468085106383,1,9,2.0,1999-11-13,2019-03-17
+Lando Norris,Marina Bay Street Circuit,0,0.9574468085106383,1,4,2.0,1999-11-13,2019-03-17
+Lando Norris,Miami International Autodrome,0,0.9574468085106383,1,17,-0.25,1999-11-13,2019-03-17
+Lando Norris,Nürburgring,0,0.9574468085106383,1,100,-1.0,1999-11-13,2019-03-17
+Lando Norris,Red Bull Ring,0,0.9574468085106383,1,3,2.571428571428571,1999-11-13,2019-03-17
+Lando Norris,Shanghai International Circuit,0,0.9574468085106383,1,18,0.5,1999-11-13,2019-03-17
+Lando Norris,Silverstone Circuit,1,0.9574468085106383,1,2,2.083333333333333,1999-11-13,2019-03-17
+Lando Norris,Sochi Autodrom,0,0.9574468085106383,1,7,1.5,1999-11-13,2019-03-17
+Lando Norris,Suzuka Circuit,0,0.9574468085106383,1,10,1.25,1999-11-13,2019-03-17
+Lando Norris,Yas Marina Circuit,0,0.9574468085106383,1,5,2.0,1999-11-13,2019-03-17
+Lewis Hamilton,Albert Park Grand Prix Circuit,0,0.9481481481481482,1,1,3.375,1985-01-07,2010-03-14
+Lewis Hamilton,Autodromo Enzo e Dino Ferrari,0,0.9481481481481482,1,1,4.0,1985-01-07,2010-03-14
+Lewis Hamilton,Autodromo Internazionale del Mugello,0,0.9481481481481482,1,1,7.5,1985-01-07,2010-03-14
+Lewis Hamilton,Autodromo Nazionale di Monza,0,0.9481481481481482,1,1,3.961538461538462,1985-01-07,2010-03-14
+Lewis Hamilton,Autódromo Hermanos Rodríguez,0,0.9481481481481482,1,1,4.428571428571429,1985-01-07,2010-03-14
+Lewis Hamilton,Autódromo Internacional do Algarve,0,0.9481481481481482,1,1,7.5,1985-01-07,2010-03-14
+Lewis Hamilton,Autódromo José Carlos Pace,0,0.9481481481481482,1,1,3.375,1985-01-07,2010-03-14
+Lewis Hamilton,Bahrain International Circuit,0,0.9481481481481482,1,1,4.884615384615385,1985-01-07,2010-03-14
+Lewis Hamilton,Baku City Circuit,0,0.9481481481481482,1,1,2.8571428571428568,1985-01-07,2010-03-14
+Lewis Hamilton,Buddh International Circuit,0,0.9481481481481482,1,4,2.0,1985-01-07,2010-03-14
+Lewis Hamilton,Circuit Gilles Villeneuve,0,0.9481481481481482,1,1,4.75,1985-01-07,2010-03-14
+Lewis Hamilton,Circuit Park Zandvoort,0,0.9481481481481482,1,2,3.0,1985-01-07,2010-03-14
+Lewis Hamilton,Circuit Paul Ricard,0,0.9481481481481482,1,1,5.75,1985-01-07,2010-03-14
+Lewis Hamilton,Circuit de Barcelona-Catalunya,0,0.9481481481481482,1,1,4.357142857142858,1985-01-07,2010-03-14
+Lewis Hamilton,Circuit de Monaco,0,0.9481481481481482,1,1,3.3076923076923075,1985-01-07,2010-03-14
+Lewis Hamilton,Circuit de Spa-Francorchamps,0,0.9481481481481482,1,1,3.4285714285714284,1985-01-07,2010-03-14
+Lewis Hamilton,Circuit of the Americas,0,0.9481481481481482,1,1,5.55,1985-01-07,2010-03-14
+Lewis Hamilton,Hockenheimring,0,0.9481481481481482,1,1,3.666666666666667,1985-01-07,2010-03-14
+Lewis Hamilton,Hungaroring,0,0.9481481481481482,1,1,4.571428571428572,1985-01-07,2010-03-14
+Lewis Hamilton,Istanbul Park,0,0.9481481481481482,1,1,4.75,1985-01-07,2010-03-14
+Lewis Hamilton,Jeddah Corniche Circuit,0,0.9481481481481482,1,1,3.8333333333333335,1985-01-07,2010-03-14
+Lewis Hamilton,Korean International Circuit,0,0.9481481481481482,1,2,3.0,1985-01-07,2010-03-14
+Lewis Hamilton,Losail International Circuit,0,0.9481481481481482,1,1,7.5,1985-01-07,2010-03-14
+Lewis Hamilton,Marina Bay Street Circuit,0,0.9481481481481482,1,1,2.8636363636363638,1985-01-07,2010-03-14
+Lewis Hamilton,Miami International Autodrome,0,0.9481481481481482,1,6,2.0,1985-01-07,2010-03-14
+Lewis Hamilton,Nürburgring,0,0.9481481481481482,1,1,5.666666666666667,1985-01-07,2010-03-14
+Lewis Hamilton,Red Bull Ring,0,0.9481481481481482,1,1,3.333333333333333,1985-01-07,2010-03-14
+Lewis Hamilton,Sepang International Circuit,0,0.9481481481481482,1,1,3.3125,1985-01-07,2010-03-14
+Lewis Hamilton,Shanghai International Circuit,0,0.9481481481481482,1,1,5.35,1985-01-07,2010-03-14
+Lewis Hamilton,Silverstone Circuit,1,0.9481481481481482,1,1,5.233333333333333,1985-01-07,2010-03-14
+Lewis Hamilton,Sochi Autodrom,0,0.9481481481481482,1,1,5.9375,1985-01-07,2010-03-14
+Lewis Hamilton,Suzuka Circuit,0,0.9481481481481482,1,1,4.090909090909091,1985-01-07,2010-03-14
+Lewis Hamilton,Valencia Street Circuit,0,0.9481481481481482,1,2,2.1666666666666665,1985-01-07,2010-03-14
+Lewis Hamilton,Yas Marina Circuit,0,0.9481481481481482,1,1,4.538461538461539,1985-01-07,2010-03-14
+Logan Sargeant,Albert Park Grand Prix Circuit,0,0.8333333333333334,1,16,0.5,2000-12-31,2023-03-05
+Logan Sargeant,Bahrain International Circuit,0,0.8333333333333334,1,12,0.5,2000-12-31,2023-03-05
+Logan Sargeant,Baku City Circuit,0,0.8333333333333334,1,16,0.5,2000-12-31,2023-03-05
+Logan Sargeant,Circuit Gilles Villeneuve,0,0.8333333333333334,1,100,-1.0,2000-12-31,2023-03-05
+Logan Sargeant,Circuit de Barcelona-Catalunya,0,0.8333333333333334,1,20,0.5,2000-12-31,2023-03-05
+Logan Sargeant,Circuit de Monaco,0,0.8333333333333334,1,18,0.5,2000-12-31,2023-03-05
+Logan Sargeant,Circuit de Spa-Francorchamps,0,0.8333333333333334,1,17,0.5,2000-12-31,2023-03-05
+Logan Sargeant,Hungaroring,0,0.8333333333333334,1,100,-1.0,2000-12-31,2023-03-05
+Logan Sargeant,Jeddah Corniche Circuit,0,0.8333333333333334,1,16,0.5,2000-12-31,2023-03-05
+Logan Sargeant,Miami International Autodrome,1,0.8333333333333334,1,20,0.5,2000-12-31,2023-03-05
+Logan Sargeant,Red Bull Ring,0,0.8333333333333334,1,13,0.5,2000-12-31,2023-03-05
+Logan Sargeant,Silverstone Circuit,0,0.8333333333333334,1,11,0.5,2000-12-31,2023-03-05
+Max Verstappen,Albert Park Grand Prix Circuit,0,0.9142857142857144,1,1,2.2142857142857144,1997-09-30,2015-03-15
+Max Verstappen,Autodromo Enzo e Dino Ferrari,0,0.9142857142857144,1,1,4.666666666666667,1997-09-30,2015-03-15
+Max Verstappen,Autodromo Internazionale del Mugello,0,0.9142857142857144,1,100,-1.0,1997-09-30,2015-03-15
+Max Verstappen,Autodromo Nazionale di Monza,0,0.9142857142857144,1,1,1.75,1997-09-30,2015-03-15
+Max Verstappen,Autódromo Hermanos Rodríguez,0,0.9142857142857144,1,1,5.142857142857142,1997-09-30,2015-03-15
+Max Verstappen,Autódromo Internacional do Algarve,0,0.9142857142857144,1,2,4.0,1997-09-30,2015-03-15
+Max Verstappen,Autódromo José Carlos Pace,0,0.9142857142857144,1,1,3.642857142857143,1997-09-30,2015-03-15
+Max Verstappen,Bahrain International Circuit,0,0.9142857142857144,1,1,1.6,1997-09-30,2015-03-15
+Max Verstappen,Baku City Circuit,0,0.9142857142857144,1,1,1.7857142857142854,1997-09-30,2015-03-15
+Max Verstappen,Circuit Gilles Villeneuve,0,0.9142857142857144,1,1,3.2142857142857144,1997-09-30,2015-03-15
+Max Verstappen,Circuit Park Zandvoort,0,0.9142857142857144,1,1,7.5,1997-09-30,2015-03-15
+Max Verstappen,Circuit Paul Ricard,0,0.9142857142857144,1,1,5.25,1997-09-30,2015-03-15
+Max Verstappen,Circuit de Barcelona-Catalunya,0,0.9142857142857144,1,1,4.222222222222222,1997-09-30,2015-03-15
+Max Verstappen,Circuit de Monaco,0,0.9142857142857144,1,1,2.875,1997-09-30,2015-03-15
+Max Verstappen,Circuit de Spa-Francorchamps,0,0.9142857142857144,1,1,3.444444444444444,1997-09-30,2015-03-15
+Max Verstappen,Circuit of the Americas,0,0.9142857142857144,1,1,3.714285714285714,1997-09-30,2015-03-15
+Max Verstappen,Hockenheimring,0,0.9142857142857144,1,1,4.5,1997-09-30,2015-03-15
+Max Verstappen,Hungaroring,0,0.9142857142857144,1,1,3.333333333333333,1997-09-30,2015-03-15
+Max Verstappen,Istanbul Park,0,0.9142857142857144,1,2,3.0,1997-09-30,2015-03-15
+Max Verstappen,Jeddah Corniche Circuit,0,0.9142857142857144,1,1,5.166666666666667,1997-09-30,2015-03-15
+Max Verstappen,Losail International Circuit,0,0.9142857142857144,1,2,4.0,1997-09-30,2015-03-15
+Max Verstappen,Marina Bay Street Circuit,0,0.9142857142857144,1,2,2.1666666666666665,1997-09-30,2015-03-15
+Max Verstappen,Miami International Autodrome,0,0.9142857142857144,1,1,7.5,1997-09-30,2015-03-15
+Max Verstappen,Nürburgring,0,0.9142857142857144,1,2,4.0,1997-09-30,2015-03-15
+Max Verstappen,Red Bull Ring,0,0.9142857142857144,1,1,4.5,1997-09-30,2015-03-15
+Max Verstappen,Sepang International Circuit,0,0.9142857142857144,1,1,4.5,1997-09-30,2015-03-15
+Max Verstappen,Shanghai International Circuit,0,0.9142857142857144,1,3,2.1,1997-09-30,2015-03-15
+Max Verstappen,Silverstone Circuit,0,0.9142857142857144,1,1,2.6,1997-09-30,2015-03-15
+Max Verstappen,Sochi Autodrom,0,0.9142857142857144,1,2,2.142857142857143,1997-09-30,2015-03-15
+Max Verstappen,Suzuka Circuit,0,0.9142857142857144,1,1,3.4166666666666665,1997-09-30,2015-03-15
+Max Verstappen,Yas Marina Circuit,0,0.9142857142857144,1,1,4.375,1997-09-30,2015-03-15
+Nico Hülkenberg,Albert Park Grand Prix Circuit,0,0.9076923076923076,1,6,0.95,1987-08-19,2010-03-14
+Nico Hülkenberg,Autodromo Nazionale di Monza,0,0.9076923076923076,1,5,1.4375,1987-08-19,2010-03-14
+Nico Hülkenberg,Autódromo Hermanos Rodríguez,0,0.9076923076923076,1,6,1.4,1987-08-19,2010-03-14
+Nico Hülkenberg,Autódromo José Carlos Pace,0,0.9076923076923076,1,5,1.4999999999999998,1987-08-19,2010-03-14
+Nico Hülkenberg,Bahrain International Circuit,0,0.9076923076923076,1,5,0.7727272727272727,1987-08-19,2010-03-14
+Nico Hülkenberg,Baku City Circuit,0,0.9076923076923076,1,9,0.2,1987-08-19,2010-03-14
+Nico Hülkenberg,Buddh International Circuit,0,0.9076923076923076,1,8,1.25,1987-08-19,2010-03-14
+Nico Hülkenberg,Circuit Gilles Villeneuve,0,0.9076923076923076,1,5,1.2499999999999998,1987-08-19,2010-03-14
+Nico Hülkenberg,Circuit Paul Ricard,0,0.9076923076923076,1,8,2.0,1987-08-19,2010-03-14
+Nico Hülkenberg,Circuit de Barcelona-Catalunya,0,0.9076923076923076,1,6,0.6499999999999999,1987-08-19,2010-03-14
+Nico Hülkenberg,Circuit de Monaco,0,0.9076923076923076,1,5,0.8,1987-08-19,2010-03-14
+Nico Hülkenberg,Circuit de Spa-Francorchamps,0,0.9076923076923076,1,4,0.95,1987-08-19,2010-03-14
+Nico Hülkenberg,Circuit of the Americas,0,0.9076923076923076,1,6,0.5,1987-08-19,2010-03-14
+Nico Hülkenberg,Hockenheimring,1,0.9076923076923076,1,5,1.2499999999999998,1987-08-19,2010-03-14
+Nico Hülkenberg,Hungaroring,0,0.9076923076923076,1,6,0.4999999999999999,1987-08-19,2010-03-14
+Nico Hülkenberg,Istanbul Park,0,0.9076923076923076,1,17,0.5,1987-08-19,2010-03-14
+Nico Hülkenberg,Jeddah Corniche Circuit,0,0.9076923076923076,1,12,0.5,1987-08-19,2010-03-14
+Nico Hülkenberg,Korean International Circuit,0,0.9076923076923076,1,4,2.0,1987-08-19,2010-03-14
+Nico Hülkenberg,Marina Bay Street Circuit,0,0.9076923076923076,1,9,0.8333333333333333,1987-08-19,2010-03-14
+Nico Hülkenberg,Miami International Autodrome,0,0.9076923076923076,1,15,0.5,1987-08-19,2010-03-14
+Nico Hülkenberg,Nürburgring,1,0.9076923076923076,1,8,2.0,1987-08-19,2010-03-14
+Nico Hülkenberg,Red Bull Ring,0,0.9076923076923076,1,6,0.4999999999999999,1987-08-19,2010-03-14
+Nico Hülkenberg,Sepang International Circuit,0,0.9076923076923076,1,5,1.5714285714285714,1987-08-19,2010-03-14
+Nico Hülkenberg,Shanghai International Circuit,0,0.9076923076923076,1,6,0.6666666666666666,1987-08-19,2010-03-14
+Nico Hülkenberg,Silverstone Circuit,0,0.9076923076923076,1,6,1.5,1987-08-19,2010-03-14
+Nico Hülkenberg,Sochi Autodrom,0,0.9076923076923076,1,8,0.4999999999999999,1987-08-19,2010-03-14
+Nico Hülkenberg,Suzuka Circuit,0,0.9076923076923076,1,6,0.6666666666666667,1987-08-19,2010-03-14
+Nico Hülkenberg,Valencia Street Circuit,0,0.9076923076923076,1,5,0.5,1987-08-19,2010-03-14
+Nico Hülkenberg,Yas Marina Circuit,0,0.9076923076923076,1,6,0.8333333333333331,1987-08-19,2010-03-14
+Oscar Piastri,Albert Park Grand Prix Circuit,1,0.9166666666666666,1,8,2.0,2001-04-06,2023-03-05
+Oscar Piastri,Bahrain International Circuit,0,0.9166666666666666,1,100,-1.0,2001-04-06,2023-03-05
+Oscar Piastri,Baku City Circuit,0,0.9166666666666666,1,11,0.5,2001-04-06,2023-03-05
+Oscar Piastri,Circuit Gilles Villeneuve,0,0.9166666666666666,1,11,0.5,2001-04-06,2023-03-05
+Oscar Piastri,Circuit de Barcelona-Catalunya,0,0.9166666666666666,1,13,0.5,2001-04-06,2023-03-05
+Oscar Piastri,Circuit de Monaco,0,0.9166666666666666,1,10,2.0,2001-04-06,2023-03-05
+Oscar Piastri,Circuit de Spa-Francorchamps,0,0.9166666666666666,1,100,-1.0,2001-04-06,2023-03-05
+Oscar Piastri,Hungaroring,0,0.9166666666666666,1,5,2.0,2001-04-06,2023-03-05
+Oscar Piastri,Jeddah Corniche Circuit,0,0.9166666666666666,1,15,0.5,2001-04-06,2023-03-05
+Oscar Piastri,Miami International Autodrome,0,0.9166666666666666,1,19,0.5,2001-04-06,2023-03-05
+Oscar Piastri,Red Bull Ring,0,0.9166666666666666,1,16,0.5,2001-04-06,2023-03-05
+Oscar Piastri,Silverstone Circuit,0,0.9166666666666666,1,4,2.0,2001-04-06,2023-03-05
+Pierre Gasly,Albert Park Grand Prix Circuit,0,0.9159663865546218,1,9,0.5,1996-02-07,2017-10-01
+Pierre Gasly,Autodromo Enzo e Dino Ferrari,0,0.9159663865546218,1,7,0.4999999999999999,1996-02-07,2017-10-01
+Pierre Gasly,Autodromo Internazionale del Mugello,0,0.9159663865546218,1,100,-1.0,1996-02-07,2017-10-01
+Pierre Gasly,Autodromo Nazionale di Monza,0,0.9159663865546218,1,1,1.9,1996-02-07,2017-10-01
+Pierre Gasly,Autódromo Hermanos Rodríguez,0,0.9159663865546218,1,4,1.625,1996-02-07,2017-10-01
+Pierre Gasly,Autódromo Internacional do Algarve,0,0.9159663865546218,1,5,2.0,1996-02-07,2017-10-01
+Pierre Gasly,Autódromo José Carlos Pace,0,0.9159663865546218,1,2,1.5,1996-02-07,2017-10-01
+Pierre Gasly,Bahrain International Circuit,0,0.9159663865546218,1,4,1.1428571428571428,1996-02-07,2017-10-01
+Pierre Gasly,Baku City Circuit,0,0.9159663865546218,1,3,1.2,1996-02-07,2017-10-01
+Pierre Gasly,Circuit Gilles Villeneuve,0,0.9159663865546218,1,8,0.875,1996-02-07,2017-10-01
+Pierre Gasly,Circuit Park Zandvoort,0,0.9159663865546218,1,4,1.25,1996-02-07,2017-10-01
+Pierre Gasly,Circuit Paul Ricard,0,0.9159663865546218,1,7,0.875,1996-02-07,2017-10-01
+Pierre Gasly,Circuit de Barcelona-Catalunya,0,0.9159663865546218,1,6,1.2499999999999998,1996-02-07,2017-10-01
+Pierre Gasly,Circuit de Monaco,0,0.9159663865546218,1,5,1.7,1996-02-07,2017-10-01
+Pierre Gasly,Circuit de Spa-Francorchamps,0,0.9159663865546218,1,6,1.75,1996-02-07,2017-10-01
+Pierre Gasly,Circuit of the Americas,0,0.9159663865546218,1,12,0.125,1996-02-07,2017-10-01
+Pierre Gasly,Hockenheimring,0,0.9159663865546218,1,14,0.5,1996-02-07,2017-10-01
+Pierre Gasly,Hungaroring,0,0.9159663865546218,1,5,0.75,1996-02-07,2017-10-01
+Pierre Gasly,Istanbul Park,0,0.9159663865546218,1,6,1.25,1996-02-07,2017-10-01
+Pierre Gasly,Jeddah Corniche Circuit,0,0.9159663865546218,1,6,2.0,1996-02-07,2017-10-01
+Pierre Gasly,Losail International Circuit,0,0.9159663865546218,1,11,0.5,1996-02-07,2017-10-01
+Pierre Gasly,Marina Bay Street Circuit,0,0.9159663865546218,1,8,1.5,1996-02-07,2017-10-01
+Pierre Gasly,Miami International Autodrome,0,0.9159663865546218,1,8,0.5,1996-02-07,2017-10-01
+Pierre Gasly,Nürburgring,0,0.9159663865546218,1,6,2.0,1996-02-07,2017-10-01
+Pierre Gasly,Red Bull Ring,0,0.9159663865546218,1,7,1.0625,1996-02-07,2017-10-01
+Pierre Gasly,Sepang International Circuit,0,0.9159663865546218,1,14,0.5,1996-02-07,2017-10-01
+Pierre Gasly,Shanghai International Circuit,0,0.9159663865546218,1,6,1.25,1996-02-07,2017-10-01
+Pierre Gasly,Silverstone Circuit,0,0.9159663865546218,1,4,0.7142857142857142,1996-02-07,2017-10-01
+Pierre Gasly,Sochi Autodrom,0,0.9159663865546218,1,9,0.5,1996-02-07,2017-10-01
+Pierre Gasly,Suzuka Circuit,0,0.9159663865546218,1,7,0.875,1996-02-07,2017-10-01
+Pierre Gasly,Yas Marina Circuit,0,0.9159663865546218,1,5,0.75,1996-02-07,2017-10-01
+Sergio Pérez,Albert Park Grand Prix Circuit,0,0.939516129032258,1,2,1.3636363636363638,1990-01-26,2011-03-27
+Sergio Pérez,Autodromo Enzo e Dino Ferrari,0,0.939516129032258,1,2,2.1666666666666665,1990-01-26,2011-03-27
+Sergio Pérez,Autodromo Internazionale del Mugello,0,0.939516129032258,1,5,2.0,1990-01-26,2011-03-27
+Sergio Pérez,Autodromo Nazionale di Monza,0,0.939516129032258,1,2,1.7916666666666667,1990-01-26,2011-03-27
+Sergio Pérez,Autódromo Hermanos Rodríguez,1,0.939516129032258,1,3,2.142857142857143,1990-01-26,2011-03-27
+Sergio Pérez,Autódromo Internacional do Algarve,0,0.939516129032258,1,4,2.0,1990-01-26,2011-03-27
+Sergio Pérez,Autódromo José Carlos Pace,0,0.939516129032258,1,4,1.3181818181818183,1990-01-26,2011-03-27
+Sergio Pérez,Bahrain International Circuit,0,0.939516129032258,1,1,2.153846153846154,1990-01-26,2011-03-27
+Sergio Pérez,Baku City Circuit,0,0.939516129032258,1,1,4.0,1990-01-26,2011-03-27
+Sergio Pérez,Buddh International Circuit,0,0.939516129032258,1,5,1.0,1990-01-26,2011-03-27
+Sergio Pérez,Circuit Gilles Villeneuve,0,0.939516129032258,1,3,1.15,1990-01-26,2011-03-27
+Sergio Pérez,Circuit Park Zandvoort,0,0.939516129032258,1,5,2.0,1990-01-26,2011-03-27
+Sergio Pérez,Circuit Paul Ricard,0,0.939516129032258,1,3,1.375,1990-01-26,2011-03-27
+Sergio Pérez,Circuit de Barcelona-Catalunya,0,0.939516129032258,1,2,1.6923076923076927,1990-01-26,2011-03-27
+Sergio Pérez,Circuit de Monaco,0,0.939516129032258,1,1,1.4545454545454546,1990-01-26,2011-03-27
+Sergio Pérez,Circuit de Spa-Francorchamps,0,0.939516129032258,1,2,1.5,1990-01-26,2011-03-27
+Sergio Pérez,Circuit of the Americas,0,0.939516129032258,1,3,1.7499999999999998,1990-01-26,2011-03-27
+Sergio Pérez,Hockenheimring,0,0.939516129032258,1,6,1.4,1990-01-26,2011-03-27
+Sergio Pérez,Hungaroring,0,0.939516129032258,1,3,0.8846153846153846,1990-01-26,2011-03-27
+Sergio Pérez,Istanbul Park,0,0.939516129032258,1,2,2.833333333333333,1990-01-26,2011-03-27
+Sergio Pérez,Jeddah Corniche Circuit,0,0.939516129032258,1,1,2.833333333333333,1990-01-26,2011-03-27
+Sergio Pérez,Korean International Circuit,0,0.939516129032258,1,10,1.0,1990-01-26,2011-03-27
+Sergio Pérez,Losail International Circuit,0,0.939516129032258,1,4,2.0,1990-01-26,2011-03-27
+Sergio Pérez,Marina Bay Street Circuit,0,0.939516129032258,1,1,2.1,1990-01-26,2011-03-27
+Sergio Pérez,Miami International Autodrome,0,0.939516129032258,1,2,3.0,1990-01-26,2011-03-27
+Sergio Pérez,Nürburgring,0,0.939516129032258,1,4,1.5,1990-01-26,2011-03-27
+Sergio Pérez,Red Bull Ring,0,0.939516129032258,1,3,1.6666666666666667,1990-01-26,2011-03-27
+Sergio Pérez,Sepang International Circuit,0,0.939516129032258,1,2,1.2142857142857144,1990-01-26,2011-03-27
+Sergio Pérez,Shanghai International Circuit,0,0.939516129032258,1,8,1.0,1990-01-26,2011-03-27
+Sergio Pérez,Silverstone Circuit,0,0.939516129032258,1,2,1.4166666666666667,1990-01-26,2011-03-27
+Sergio Pérez,Sochi Autodrom,0,0.939516129032258,1,3,2.25,1990-01-26,2011-03-27
+Sergio Pérez,Suzuka Circuit,0,0.939516129032258,1,2,1.6,1990-01-26,2011-03-27
+Sergio Pérez,Valencia Street Circuit,0,0.939516129032258,1,9,1.25,1990-01-26,2011-03-27
+Sergio Pérez,Yas Marina Circuit,0,0.939516129032258,1,3,1.5416666666666667,1990-01-26,2011-03-27
+Valtteri Bottas,Albert Park Grand Prix Circuit,0,0.9530516431924884,1,1,2.1666666666666665,1989-08-28,2013-03-17
+Valtteri Bottas,Autodromo Enzo e Dino Ferrari,0,0.9530516431924884,1,2,1.6666666666666663,1989-08-28,2013-03-17
+Valtteri Bottas,Autodromo Internazionale del Mugello,0,0.9530516431924884,1,2,4.0,1989-08-28,2013-03-17
+Valtteri Bottas,Autodromo Nazionale di Monza,0,0.9530516431924884,1,2,2.5,1989-08-28,2013-03-17
+Valtteri Bottas,Autódromo Hermanos Rodríguez,0,0.9530516431924884,1,2,2.642857142857143,1989-08-28,2013-03-17
+Valtteri Bottas,Autódromo Internacional do Algarve,0,0.9530516431924884,1,2,4.0,1989-08-28,2013-03-17
+Valtteri Bottas,Autódromo José Carlos Pace,0,0.9530516431924884,1,2,1.6111111111111112,1989-08-28,2013-03-17
+Valtteri Bottas,Bahrain International Circuit,0,0.9530516431924884,1,2,2.5416666666666665,1989-08-28,2013-03-17
+Valtteri Bottas,Baku City Circuit,0,0.9530516431924884,1,1,2.0,1989-08-28,2013-03-17
+Valtteri Bottas,Buddh International Circuit,0,0.9530516431924884,1,16,0.5,1989-08-28,2013-03-17
+Valtteri Bottas,Circuit Gilles Villeneuve,0,0.9530516431924884,1,2,2.7222222222222223,1989-08-28,2013-03-17
+Valtteri Bottas,Circuit Park Zandvoort,0,0.9530516431924884,1,3,1.5,1989-08-28,2013-03-17
+Valtteri Bottas,Circuit Paul Ricard,0,0.9530516431924884,1,2,2.125,1989-08-28,2013-03-17
+Valtteri Bottas,Circuit de Barcelona-Catalunya,0,0.9530516431924884,1,2,2.1818181818181817,1989-08-28,2013-03-17
+Valtteri Bottas,Circuit de Monaco,0,0.9530516431924884,1,3,1.0000000000000002,1989-08-28,2013-03-17
+Valtteri Bottas,Circuit de Spa-Francorchamps,0,0.9530516431924884,1,2,1.863636363636364,1989-08-28,2013-03-17
+Valtteri Bottas,Circuit of the Americas,0,0.9530516431924884,1,1,1.7777777777777777,1989-08-28,2013-03-17
+Valtteri Bottas,Hockenheimring,0,0.9530516431924884,1,2,2.25,1989-08-28,2013-03-17
+Valtteri Bottas,Hungaroring,0,0.9530516431924884,1,3,1.409090909090909,1989-08-28,2013-03-17
+Valtteri Bottas,Istanbul Park,0,0.9530516431924884,1,1,4.0,1989-08-28,2013-03-17
+Valtteri Bottas,Jeddah Corniche Circuit,0,0.9530516431924884,1,3,1.1666666666666663,1989-08-28,2013-03-17
+Valtteri Bottas,Korean International Circuit,0,0.9530516431924884,1,12,0.5,1989-08-28,2013-03-17
+Valtteri Bottas,Losail International Circuit,0,0.9530516431924884,1,100,-1.0,1989-08-28,2013-03-17
+Valtteri Bottas,Marina Bay Street Circuit,0,0.9530516431924884,1,3,1.3125,1989-08-28,2013-03-17
+Valtteri Bottas,Miami International Autodrome,0,0.9530516431924884,1,7,1.25,1989-08-28,2013-03-17
+Valtteri Bottas,Nürburgring,0,0.9530516431924884,1,16,-0.25,1989-08-28,2013-03-17
+Valtteri Bottas,Red Bull Ring,0,0.9530516431924884,1,1,3.25,1989-08-28,2013-03-17
+Valtteri Bottas,Sepang International Circuit,0,0.9530516431924884,1,5,1.7,1989-08-28,2013-03-17
+Valtteri Bottas,Shanghai International Circuit,0,0.9530516431924884,1,2,2.3571428571428568,1989-08-28,2013-03-17
+Valtteri Bottas,Silverstone Circuit,0,0.9530516431924884,1,2,2.083333333333333,1989-08-28,2013-03-17
+Valtteri Bottas,Sochi Autodrom,0,0.9530516431924884,1,1,3.9375,1989-08-28,2013-03-17
+Valtteri Bottas,Suzuka Circuit,0,0.9530516431924884,1,1,2.5625,1989-08-28,2013-03-17
+Valtteri Bottas,Yas Marina Circuit,0,0.9530516431924884,1,1,2.2,1989-08-28,2013-03-17
+Yuki Tsunoda,Albert Park Grand Prix Circuit,0,0.9285714285714286,1,10,1.25,2000-05-11,2021-03-28
+Yuki Tsunoda,Autodromo Enzo e Dino Ferrari,0,0.9285714285714286,1,7,1.25,2000-05-11,2021-03-28
+Yuki Tsunoda,Autodromo Nazionale di Monza,0,0.9285714285714286,1,14,-0.25,2000-05-11,2021-03-28
+Yuki Tsunoda,Autódromo Hermanos Rodríguez,0,0.9285714285714286,1,100,-1.0,2000-05-11,2021-03-28
+Yuki Tsunoda,Autódromo Internacional do Algarve,0,0.9285714285714286,1,15,0.5,2000-05-11,2021-03-28
+Yuki Tsunoda,Autódromo José Carlos Pace,0,0.9285714285714286,1,15,0.5,2000-05-11,2021-03-28
+Yuki Tsunoda,Bahrain International Circuit,0,0.9285714285714286,1,8,1.5,2000-05-11,2021-03-28
+Yuki Tsunoda,Baku City Circuit,0,0.9285714285714286,1,7,1.5,2000-05-11,2021-03-28
+Yuki Tsunoda,Circuit Gilles Villeneuve,0,0.9285714285714286,1,14,-0.25,2000-05-11,2021-03-28
+Yuki Tsunoda,Circuit Park Zandvoort,0,0.9285714285714286,1,100,-1.0,2000-05-11,2021-03-28
+Yuki Tsunoda,Circuit Paul Ricard,0,0.9285714285714286,1,13,-0.25,2000-05-11,2021-03-28
+Yuki Tsunoda,Circuit de Barcelona-Catalunya,0,0.9285714285714286,1,10,0.4999999999999999,2000-05-11,2021-03-28
+Yuki Tsunoda,Circuit de Monaco,0,0.9285714285714286,1,15,0.5,2000-05-11,2021-03-28
+Yuki Tsunoda,Circuit de Spa-Francorchamps,0,0.9285714285714286,1,10,1.0,2000-05-11,2021-03-28
+Yuki Tsunoda,Circuit of the Americas,0,0.9285714285714286,1,9,2.0,2000-05-11,2021-03-28
+Yuki Tsunoda,Hungaroring,0,0.9285714285714286,1,6,1.0,2000-05-11,2021-03-28
+Yuki Tsunoda,Istanbul Park,0,0.9285714285714286,1,14,0.5,2000-05-11,2021-03-28
+Yuki Tsunoda,Jeddah Corniche Circuit,0,0.9285714285714286,1,11,0.0,2000-05-11,2021-03-28
+Yuki Tsunoda,Losail International Circuit,0,0.9285714285714286,1,13,0.5,2000-05-11,2021-03-28
+Yuki Tsunoda,Marina Bay Street Circuit,0,0.9285714285714286,1,100,-1.0,2000-05-11,2021-03-28
+Yuki Tsunoda,Miami International Autodrome,0,0.9285714285714286,1,11,0.5,2000-05-11,2021-03-28
+Yuki Tsunoda,Red Bull Ring,0,0.9285714285714286,1,10,0.875,2000-05-11,2021-03-28
+Yuki Tsunoda,Silverstone Circuit,0,0.9285714285714286,1,10,1.0,2000-05-11,2021-03-28
+Yuki Tsunoda,Sochi Autodrom,0,0.9285714285714286,1,17,0.5,2000-05-11,2021-03-28
+Yuki Tsunoda,Suzuka Circuit,1,0.9285714285714286,1,13,0.5,2000-05-11,2021-03-28
+Yuki Tsunoda,Yas Marina Circuit,0,0.9285714285714286,1,4,1.25,2000-05-11,2021-03-28
