@@ -1,70 +1,45 @@
 # F1-react-app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Introduction
+- PoC on F1 race prediction with a proper FE
+- Part of my effort to learn JS and React
+- Working on classification model to predict F1 results
 
-## Available Scripts
+# Content
+## Back-End
+- written in Flask, with proxy routed from React FE
+- I have written some Flask app with Jinja template but not with a proper FE
+- this time i am using dotenv, using `flask run` to run the server, rather `python app.py`
+- no DB set up this time, planned to set up pgsql to store some data, somehow all the data can be retrieve from the API
+- shoutout to: https://ergast.com
 
-In the project directory, you can run:
+### The Model
+- some of the data used to do the training and testing
+| Column Used       | Type  | Description   |
+| ----------------- | ----- | ------------- |
+| Driver_Home       | Int   | Row 1, Cell 3 |
+| Driver_Confidence | Float | Row 2, Cell 3 |
+| Best_Position     | Int   | Row 3, Cell 3 |
+| Driver_Score      | Float | Row 3, Cell 3 |
+| Age_days          | Int   | Row 3, Cell 3 |
+| Experience_days   | Int   | Row 3, Cell 3 |
+| Constructor_Home  | Int   | Row 3, Cell 3 |
+| Const_Reliability | Float | Row 3, Cell 3 |
 
-### `npm start`
+- the process is somehow not here, will include when the training process is mature
+- Some consideration to change:
+    - Scaling for all the variables
+    - Data is too old, the model have to be retrained
+    - Logistic Regression is insufficient to predict the complexity of the race
+    - There are so many variables to be included, that will direct or indirectly affect the result
+- The Algorithm for driver score is *self-written*, LFG. Not a bad _shit_ ngl
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Front-End
+- written in React.js and css
+- somesort of suck, still learning syntax
+- kind of learning `this`, `state`, `const`
+- Nothing much to talk about, still WIP.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Contact
+- Will deploy when the model is fixed. Also adding more feature.
+- For anymore suggestions, please contact me at kqdev0199@gmail.com
