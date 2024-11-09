@@ -15,16 +15,17 @@
 
 ### The Model
 - some of the data used to do the training and testing
-| Column Used       | Type  | Description   |
-| ----------------- | ----- | ------------- |
-| Driver_Home       | Int   | Row 1, Cell 3 |
-| Driver_Confidence | Float | Row 2, Cell 3 |
-| Best_Position     | Int   | Row 3, Cell 3 |
-| Driver_Score      | Float | Row 3, Cell 3 |
-| Age_days          | Int   | Row 3, Cell 3 |
-| Experience_days   | Int   | Row 3, Cell 3 |
-| Constructor_Home  | Int   | Row 3, Cell 3 |
-| Const_Reliability | Float | Row 3, Cell 3 |
+
+| Column Used        | Type  | Description   |
+| ------------------ | ----- | ------------- |
+| Driver_Home        | Int   | Row 1, Cell 3 |
+| Driver_Confidence  | Float | Row 2, Cell 3 |
+| Best_Position      | Int   | Row 3, Cell 3 |
+| Driver_Score       | Float | Row 3, Cell 3 |
+| Age_days           | Int   | Row 3, Cell 3 |
+| Experience_days    | Int   | Row 3, Cell 3 |
+| Constructor_Home   | Int   | Row 3, Cell 3 |
+| Const_Reliability  | Float | Row 3, Cell 3 |
 
 - the process is somehow not here, will include when the training process is mature
 - Some consideration to change:
